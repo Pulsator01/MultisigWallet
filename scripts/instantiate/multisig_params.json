@@ -1,16 +1,16 @@
 {
-  "sender_account": "archway1......",
+  "sender_account": "archway1wvgx969dzzp44sszg5lg5cwhq2d6ndrntxpz5q",
   "name": "My Multisig",
   "description": "A multisig instance",
   "image_url": "",
   "max_voting_period_in_seconds": 86400,
   "members": [
     {
-      "addr": "archway1......",
+      "addr": "archway1wvgx969dzzp44sszg5lg5cwhq2d6ndrntxpz5q",
       "weight": 1
     },
     {
-      "addr": "archway1......",
+      "addr": "archway1vx9q9qp4wnmwj3v44vftcq62ugn6yprx8ea5sv",
       "weight": 1
     }
   ]
